@@ -1,9 +1,5 @@
 {
   "fingerprint": [
-    { "id": 6E:F3:55:47:6D:F1:0E:5B:2B:04:F2:F8:C0:8B:E8:05:65:0F:1A:C1, "title": "json-server", "author": "pavansai018" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+    { "id": 1, "key": "6E:F3:55:47:6D:F1:0E:5B:2B:04:F2:F8:C0:8B:E8:05:65:0F:1A:C1" }
+  ]
 }
